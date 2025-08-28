@@ -45,4 +45,4 @@
 </pre>
 
 ---
-<p align="center">Curved Spacetime.</p>
+<p align="center">Curved Spacetime</p>
