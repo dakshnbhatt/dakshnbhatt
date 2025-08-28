@@ -45,4 +45,4 @@
 </pre>
 
 ---
-<p align="center">Made with ☄️, code, and curved spacetime.</p>
+<p align="center">Curved Spacetime.</p>
